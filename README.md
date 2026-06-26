@@ -27,6 +27,8 @@ A full-stack **Question & Answer platform** inspired by Stack Overflow.
 * Dark Mode
 * Responsive UI
 
+Code : https://github.com/MohammadSameer08/stackoverflow-full-stack-application
+
 ---
 
 ## 2. Full Stack Auth Application (Backend + FrontEnd) Next.Js
@@ -51,6 +53,8 @@ A complete authentication system demonstrating secure user management using JWT.
 * Profile Page
 * Logout
 * HTTP-Only Secure Cookies
+
+Code : https://github.com/MohammadSameer08/full-stack-nextjs-auth-application
 
 ---
 
@@ -81,3 +85,5 @@ A backend application for project and team management with secure authentication
 * Custom Middleware
 * Security Best Practices
 * Interview-Friendly Architecture
+
+Code: https://github.com/MohammadSameer08/ProjectCamp 
