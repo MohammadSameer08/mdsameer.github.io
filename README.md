@@ -87,3 +87,60 @@ A backend application for project and team management with secure authentication
 * Interview-Friendly Architecture
 
 Code: https://github.com/MohammadSameer08/ProjectCamp 
+
+---
+
+## 4. Cloudinary SaaS - Video & Social Media Upload Platform
+
+A modern full-stack web application for uploading, managing, and sharing videos and social media content with Cloudinary integration, built with Next.js 16 and TypeScript.
+
+## 🚀 Quick Links
+
+* [Setup & Installation](https://github.com/MohammadSameer08/cloudinary-saas-youtube/blob/master/docs/SETUP.md)
+* [Project Architecture](https://github.com/MohammadSameer08/cloudinary-saas-youtube/blob/master/docs/ARCHITECTURE.md)
+* [API Documentation](https://github.com/MohammadSameer08/cloudinary-saas-youtube/blob/master/docs/API.md)
+* [Database Schema](https://github.com/MohammadSameer08/cloudinary-saas-youtube/blob/master/docs/DATABASE.md)
+* [Features Overview](https://github.com/MohammadSameer08/cloudinary-saas-youtube/blob/master/docs/FEATURES.md)
+
+---
+
+## 📋 Project Overview
+
+This SaaS platform enables users to:
+
+* Upload and manage videos with automatic compression
+* Create social media images with preset formats (Instagram, Twitter, Facebook)
+* Download processed media files
+* Secure authentication with Clerk
+* PostgreSQL database with Prisma ORM
+* Cloudinary integration for media processing
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+
+* **Framework**: Next.js 16.2.9
+* **Language**: TypeScript 5
+* **Styling**: Tailwind CSS 4 + DaisyUI 5.6.0
+* **HTTP Client**: Axios
+* **Authentication**: Clerk NextJS
+
+### Backend
+
+* **Runtime**: Node.js
+* **Database**: PostgreSQL (Neon)
+* **ORM**: Prisma
+* **Authentication**: Clerk
+* **Media Processing**: Cloudinary v2
+
+### Development Tools
+
+* **Package Manager**: npm
+* **Linting**: ESLint
+* **Build Tool**: Turbopack (Next.js)
+
+Code: https://github.com/MohammadSameer08/cloudinary-saas-youtube
+
+---
